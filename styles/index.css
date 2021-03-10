@@ -17,20 +17,20 @@ body {
     width: 100%;
 }
 .layer-background {
-    background-image: url(../images/ilu_bg.jpg);
+    background-image: url(../images/ilu_bg.jpg); /*pozadí*/
     background-size: cover;    
 }
 .layer-1 {
-    background-image: url(../images/ilu_02.png);
+    background-image: url(../images/ilu_02.png); /*kameny*/
 }
 .layer-2 {
-    background-image: url(../images/ilu_03.png);
+    background-image: url(../images/ilu_03.png); /*hora*/
 }
 .layer-3 {
-    background-image: url(../images/ilu_man.png);
+    background-image: url(../images/ilu_man.png); /*postava*/
 }
 .layer-4 {
-    background-image: url(../images/ilu_01.png);
+    background-image: url(../images/ilu_01.png); /*cesta*/
 }
 .text {
     position: relative;
@@ -39,6 +39,7 @@ body {
     color: #ffffff;
     padding: 7em;
     height: 100vh;
+    text-align: justify;
 }
 .text2 {
     background-color: azure;
