@@ -17,20 +17,20 @@ body {
     width: 100%;
 }
 .layer-background {
-    background-image: url();
+    background-image: url(../images/ilu_bg.jpg);
     background-size: cover;    
 }
 .layer-1 {
-    background-image: url();
+    background-image: url(../images/ilu_02.png);
 }
 .layer-2 {
-    background-image: url();
+    background-image: url(../images/ilu_03.png);
 }
 .layer-3 {
-    background-image: url();
+    background-image: url(../images/ilu_man.png);
 }
 .layer-4 {
-    background-image: url();
+    background-image: url(../images/ilu_01.png);
 }
 .text {
     position: relative;
