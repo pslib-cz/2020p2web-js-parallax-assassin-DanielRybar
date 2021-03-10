@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+  }
+.parallax-container {
+    display: block;
+    height: 100vh;
+    overflow: hidden;
+}
+.parallax-layer {
+    position: fixed;
+    top: 0;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    transform: translateY(0px);
+    height: inherit;
+    width: 100%;
+}
+.layer-background {
+    background-image: url();
+    background-size: cover;    
+}
+.layer-1 {
+    background-image: url();
+}
+.layer-2 {
+    background-image: url();
+}
+.layer-3 {
+    background-image: url();
+}
+.layer-4 {
+    background-image: url();
+}
+.text {
+    position: relative;
+    z-index: 1;
+    background-color: #000;
+    color: #ffffff;
+    padding: 7em;
+    height: 100vh;
+}
+.text2 {
+    background-color: azure;
+    color: black;
+}
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+p {
+    font-size: 1.15em;
+}
