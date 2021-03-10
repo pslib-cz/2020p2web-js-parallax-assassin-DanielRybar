@@ -14,7 +14,7 @@ Zde bude odkaz na index soubor tohoto webu - zpřístupnění se dělá v *Setti
 
 Dále je třeba upravit URL - za *YOURLOGINNAME* doplnit vaše loginname v GitHubu.
 
-[Odkaz na tuto stránku "živě"](https://pslib-cz.github.io/2020p2web-js-parallax-assassin-YOURLOGINNAME/index.html)
+[Odkaz na tuto stránku "živě"](https://pslib-cz.github.io/2020p2web-js-parallax-assassin-DanielRybar/index.html)
 
 ## Syntaktické poznámky
 Změna vlastnosti transform CSS stylu HTML elementu
